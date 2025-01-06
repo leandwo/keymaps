@@ -3,7 +3,7 @@
   "notes": "",
   "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "keebio/iris/rev6",
-  "keymap": "keebio_iris_rev6_keebio_iris_rev6_keebio_iris_rev6_iris_rev6_qmkc_ver4",
+  "keymap": "keebio_iris_rev6_keebio_iris_rev6_keebio_iris_rev6_keebio_iris_rev6_iris_rev6_qmkc_ver4",
   "layout": "LAYOUT",
   "layers": [
     [
@@ -318,8 +318,8 @@
       "KC_CIRC",
       "KC_AMPR",
       "KC_ASTR",
-      "KC_SCLN",
       "KC_COLN",
+      "KC_SCLN",
       "KC_BSLS",
       "KC_ESC",
       "KC_1",
